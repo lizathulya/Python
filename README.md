@@ -1,2 +1,1 @@
-# Python
-Python projects done by me from beginner omwards
+Welcome to my Python Projects repository! This repository contains a collection of my personal and academic projects built using Python. These projects demonstrate my skills in various areas including web scraping and more
